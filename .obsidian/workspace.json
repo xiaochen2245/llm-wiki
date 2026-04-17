@@ -11,10 +11,10 @@
             "id": "d2ff641a6cc3a456",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -178,8 +178,41 @@
   },
   "active": "d2ff641a6cc3a456",
   "lastOpenFiles": [
-    "README.md",
-    "LICENSE",
-    "CLAUDE.md"
+    "raw/09-archive/尽量一次搬运较大的数据块-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "wiki/entities/CANN.md",
+    "wiki/entities/Ascend_C.md",
+    "wiki/entities/Anthropic.md",
+    "wiki/entities/AI_Core.md",
+    "wiki/entities/昇腾.md",
+    "raw/01-articles/提示设计策略  _  Gemini API.md",
+    "raw/01-articles/Matmul使能AtomicAdd选项-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/较小矩阵长驻L1 Buffer，仅分次搬运较大矩阵-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/通过L0C Buffer数据暂存实现高效的矩阵乘结果累加-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/通过FP Buffer存放量化参数实现高效随路量化-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/通过BT Buffer实现高效的bias计算-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/选择低延迟指令，优化归约操作性能-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/Vector算子灵活运用Counter模式-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/通过Unified Buffer融合实现连续vector计算-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/纯搬运类算子VECIN和VECOUT建议复用-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/算子与高阶API共享临时Buffer-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/设置合理的L2 CacheMode-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/避免同地址访问-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/高效的使用搬运API-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/使能DoubleBuffer-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/核函数内删除Workspace相关冗余操作-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/避免TPipe在对象内创建和初始化-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/限制TilingData结构大小-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/设置合适的核数和算子Kernel类型-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "raw/09-archive/核间负载均衡-CANN社区版9.0.0-beta.2-昇腾社区.md",
+    "wiki/log.md.tmp.777.1776420255837",
+    "wiki/index.md.tmp.777.1776420241388",
+    "wiki/index.md.tmp.777.1776420229033",
+    "wiki/concepts/Workspace.md.tmp.777.1776420216389",
+    "wiki/concepts/Scalar常量折叠.md.tmp.777.1776420216117",
+    "wiki/concepts/DataCopyParams.md.tmp.777.1776420215805",
+    "wiki/concepts/同地址访问冲突.md.tmp.777.1776420215543",
+    "wiki/concepts/L0C_Buffer.md.tmp.777.1776419923581",
+    "wiki/concepts/Fixpipe_Buffer.md.tmp.777.1776419923299",
+    "wiki/concepts/Bias_Table_Buffer.md.tmp.777.1776419923037"
   ]
 }
